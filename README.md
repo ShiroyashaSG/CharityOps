@@ -41,11 +41,11 @@ CharityOps — это благотворительный фонд, которы�
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ShiroyashaSG/cat_charity_fund.git
+   git clone https://github.com/ShiroyashaSG/CharityOps.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
-   cd cat_charity_fund
+   cd CharityOps
    ```
 3. Cоздайте и активируйте виртуальное окружение:
    ```bash
